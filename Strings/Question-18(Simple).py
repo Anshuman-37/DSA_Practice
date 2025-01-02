@@ -1,3 +1,4 @@
+# Basic string compression and decompression.
 def compress_string(s):
     if not s:
         return ""
