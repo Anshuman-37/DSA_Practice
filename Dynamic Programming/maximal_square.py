@@ -27,5 +27,4 @@ class Solution:
                 else:
                     dp[i][j] = 0
 
-        # If the problem expects the area, return max_side * max_side
         return max_side * max_side
